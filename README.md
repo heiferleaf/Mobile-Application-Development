@@ -4,4 +4,4 @@
 其中分支分别为：
 - frontend：前端代码，以及应用数据库代码
 - backend：后端AI接口代码
-- main：实验报告文档，README 文件
+- main：实验报告文档，README 文件，应用视频展示文件
